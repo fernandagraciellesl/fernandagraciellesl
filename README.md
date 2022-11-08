@@ -2,6 +2,11 @@
 
 ### olá! Eu sou Fernanda Lima 👋
 
+
+<p align="center"> 
+  <img src=" https://capsule-render.vercel.app/api?text=Olá pessoal!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+</p>
+
 - 🔭 I'm not working at the moment
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
 - 👯 I want to learn and collaborate
