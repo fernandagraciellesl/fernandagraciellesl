@@ -2,26 +2,24 @@
 
 ### olá! Eu sou Fernanda Lima 👋
 
-
-<p align="center"> 
-  <img src=" https://capsule-render.vercel.app/api?text=Olá pessoal!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
-</p>
-
+ ```yaml 
 - 🔭 I'm not working at the moment
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
-- 👯 I want to learn and collaborate
+- 👯 I want to learn and collaborate  
+```
 
 <div align="center">
   <a href="https://github.com/fernandagraciellesl">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandagraciellesl&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandagraciellesl&layout=compact&langs_count=7&theme=tokyonight"/>
+    
 </div>
   
   
   
   
   
-  ## Estou aprendendo
+ <h2> 🚀  Algumas ferramentas que usei e aprendi</h2> 
   
   
 <div style="display: inline_block"><br>
@@ -46,3 +44,4 @@
 
  
 </div>
+  ![Animação de cobra]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
