@@ -1,12 +1,20 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Fernanda</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
 
-### olá! Eu sou Fernanda Lima 👋
+</div>
 
- ```yaml 
-- 🔭 I'm not working at the moment
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
-- 👯 I want to learn and collaborate  
-```
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 | Fernanda Lima 💻   I'm not working at the moment | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ 
+ <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻  | I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT |<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ 
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 I want to learn and collaborate|<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ <h3><img height="20em" src= "https://user-images.githubusercontent.com/102269627/200859508-c2692622-7239-4e73-b4c1-0b4b54c05b84.png">
+Brazil , BR 
+</div>
+
 
 <div align="center">
   <a href="https://github.com/fernandagraciellesl">
