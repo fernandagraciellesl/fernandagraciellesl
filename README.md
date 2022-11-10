@@ -1,7 +1,7 @@
 <div align="center">
 
-   <h1>Hi there, I'm <a href="https://hemant.codes">Fernanda</a> 
-   <img align="" alt= "nanda-pic" height="400" style="border-radius:50px;" 
+   <h1 >Hi there, I'm <a href="https://hemant.codes">Fernanda</a> 
+   <img align="center" alt= "nanda-pic" height="400" style="border-radius:50px;" 
    src="https://cdn.picrew.me/shareImg/org/202211/407340_FjJU5kcm.png"> </h1>
 
    
