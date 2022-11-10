@@ -1,18 +1,25 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Fernanda</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
+
+   <h1>Hi there, I'm <a href="https://hemant.codes">Fernanda</a> 
+   <img align="" alt= "nanda-pic" height="400" style="border-radius:50px;" 
+   src="https://cdn.picrew.me/shareImg/org/202211/407340_FjJU5kcm.png"> </h1>
+
    
 
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 | Fernanda Lima 💻   I'm not working at the moment | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+| Fernanda Lima 🙎  I'm not working at the moment | </h3>
  
- <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻  | I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT |<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+| I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT |</h3>
  
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 I want to learn and collaborate|<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
- <h3><img height="20em" src= "https://user-images.githubusercontent.com/102269627/200859508-c2692622-7239-4e73-b4c1-0b4b54c05b84.png">
-Brazil , BR 
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+| I want to learn and collaborate |</h3>
+ <h3><img height="20em" 
+src= "https://user-images.githubusercontent.com/102269627/200859508-c2692622-7239-4e73-b4c1-0b4b54c05b84.png">
+| Brazil , BR |
 </div>
 
 
@@ -27,18 +34,20 @@ Brazil , BR
   
   
   
- <h2> 🚀  Algumas ferramentas que usei e aprendi</h2> 
+ <h2> 🚀  Algumas ferramentas que estou estundando e aprendendo! </h2> 
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nanda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nanda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nanda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Nanda-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202211/407340_FjJU5kcm.png">
+
+<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
+
+
 </div>
  
   ## Contatos
