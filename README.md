@@ -1,6 +1,6 @@
 <div align="center">
 
-   <h1 >Hi there, I'm <a href="https://hemant.codes">Fernanda</a> 
+   <h1 >Hi, I'm <a href="https://hemant.codes">Fernanda</a> 
    <img align="center" 
    alt= "nanda-pic"
    height="400" 
@@ -38,7 +38,7 @@ src= "https://user-images.githubusercontent.com/102269627/200859508-c2692622-723
   
   
   
- <h2> 🚀  Algumas ferramentas que estou estundando e aprendendo! </h2> 
+ <h2> 🚀  ALGUMAS FERRAMENTAS QUE ESTOU ESTUDANDO! </h2> 
   
   
 <div style="display: inline_block"><br>
@@ -54,7 +54,7 @@ src= "https://user-images.githubusercontent.com/102269627/200859508-c2692622-723
 
 </div>
  
-  ## Contatos
+  ## CONTATOS
   
   <div> 
   <a href="https://instagram.com/fernandagraciellesl" target="_blank">
